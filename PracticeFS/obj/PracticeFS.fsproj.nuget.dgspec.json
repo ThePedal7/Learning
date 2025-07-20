@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learning\\Github\\CSharp\\Learning\\PracticeFS\\PracticeFS.fsproj": {}
+    "C:\\Learning\\Github\\Learning\\PracticeFS\\PracticeFS.fsproj": {}
   },
   "projects": {
-    "C:\\Learning\\Github\\CSharp\\Learning\\PracticeFS\\PracticeFS.fsproj": {
+    "C:\\Learning\\Github\\Learning\\PracticeFS\\PracticeFS.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learning\\Github\\CSharp\\Learning\\PracticeFS\\PracticeFS.fsproj",
+        "projectUniqueName": "C:\\Learning\\Github\\Learning\\PracticeFS\\PracticeFS.fsproj",
         "projectName": "PracticeFS",
-        "projectPath": "C:\\Learning\\Github\\CSharp\\Learning\\PracticeFS\\PracticeFS.fsproj",
+        "projectPath": "C:\\Learning\\Github\\Learning\\PracticeFS\\PracticeFS.fsproj",
         "packagesPath": "C:\\Users\\leann\\.nuget\\packages\\",
-        "outputPath": "C:\\Learning\\Github\\CSharp\\Learning\\PracticeFS\\obj\\",
+        "outputPath": "C:\\Learning\\Github\\Learning\\PracticeFS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
