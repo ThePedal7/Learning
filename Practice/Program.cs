@@ -1,9 +1,13 @@
-﻿namespace Practice;
+﻿
+
+namespace Practice;
 
 class Program
 { 
     private static void Main()
     {
-        Console.WriteLine("Hello World!");
+        Calculator calculator = new Calculator();
+        calculator.Calculate();
+        
     }
 }
