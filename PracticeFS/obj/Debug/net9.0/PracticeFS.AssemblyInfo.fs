@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("PracticeFS")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db65fcc2a3f90ab896eb4578b03b56ee02fc6eca")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e156c525e99067a3e53635d7a1ddac1f28acf42")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("PracticeFS")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("PracticeFS")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
